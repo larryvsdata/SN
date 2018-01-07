@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 23 19:37:20 2017
 
-@author: Erman
-"""
 import networkx as nx
 import matplotlib.pyplot as plt
 import numpy as np
