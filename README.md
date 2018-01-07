@@ -1,0 +1,2 @@
+# SN
+Social netwoks analysis using networkx. These items constitute for collaborations in the condensed matter community. I investigated their relations through different models and I cam a little bit on top. I twisted the collaborations with questions like "What if high energy physicist jump in?". These days high energy people do collaborate with condensed matter people and together they do excellent work.
